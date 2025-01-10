@@ -1,0 +1,4 @@
+# Função print() que recebe vários argumentos e faz a quebra de linha (\n) no windows:
+print(12, 34, sep="-", end="\n")
+print(56, 78, sep='-', end='%%\n')
+print(9, 10, sep='-', end="\n")
